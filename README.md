@@ -6,7 +6,7 @@
 * [The Rust and WebAssembly Book](https://github.com/rustwasm/book)
 * [Asynchronous Programming in Rust](https://github.com/rust-lang/async-book/tree/master/src)
 * [24 Days of Rust](https://github.com/zsiciarz/24daysofrust)
-* [Rust Practice Question](https://github.com/sn99/rust-practise-questions)
+* [Rust Practice Questions](https://github.com/sn99/rust-practise-questions)
 
 ## Apache 2.0
 * [The Embedded Rust Book](https://github.com/rust-embedded/book)
