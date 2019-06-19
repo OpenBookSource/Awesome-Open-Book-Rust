@@ -1,4 +1,4 @@
-# Awesome Open Book: Rust
+# Awesome Open Book Rust
 ## CC0-1.0
 * [A Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
 
